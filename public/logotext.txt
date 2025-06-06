@@ -1,0 +1,7 @@
+function Logo({width= '100px'}) {
+  return (
+    <div className='flex items-center justify-center text-white font-bold text-2xl' style={{width: width}}>
+      {/* <span className='text-[#b8e1e9]'>E</span> */}
+      EchoThread
+    </div>
+  )
