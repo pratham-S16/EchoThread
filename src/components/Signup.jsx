@@ -7,7 +7,7 @@ import { login } from "../store/authSlice";
 // import { Input, logo} from './index';
 import Button from "./Button";
 import Input from "./Input";
-import Logo from "./logo";
+import Logo from "./Logo";
 import { Link } from "react-router-dom";
 import conf from "../conf/conf";
 

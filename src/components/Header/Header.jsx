@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import Container from '../container/Container'
-import Logo from '../logo'
+import Logo from '../Logo'
 import LogoutBtn from './LogoutBtn'
 import { useSelector } from 'react-redux'
 import { useNavigate } from 'react-router-dom'
